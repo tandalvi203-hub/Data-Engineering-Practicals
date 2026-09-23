@@ -1,0 +1,23 @@
+<students>
+    <student>
+        <ID>101</ID>
+        <Name>Rahul</Name>
+        <Age>21</Age>
+        <City>Mumbai</City>
+        <Email>rahul@gmail.com</Email>
+    </student>
+    <student>
+        <ID>102</ID>
+        <Name>Priya</Name>
+        <Age>22</Age>
+        <City>Pune</City>
+        <Email></Email>
+    </student>
+    <student>
+        <ID>103</ID>
+        <Name>Amit</Name>
+        <Age>150</Age>
+        <City>Nashik</City>
+        <Email>amit@gmail.com</Email>
+    </student>
+</students>
